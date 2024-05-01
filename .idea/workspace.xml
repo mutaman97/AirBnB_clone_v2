@@ -2,7 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67bc98d0-9c4b-4b88-adf3-9b596c4c3e69" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main_delete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0-setup_web_static.sh" beforeDir="false" afterPath="$PROJECT_DIR$/0-setup_web_static.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1-pack_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/1-pack_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/100-clean_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-clean_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/101-setup_web_static.pp" beforeDir="false" afterPath="$PROJECT_DIR$/101-setup_web_static.pp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-do_deploy_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-do_deploy_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3-deploy_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-deploy_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AUTHORS" beforeDir="false" afterPath="$PROJECT_DIR$/AUTHORS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/second/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/second/console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_console.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_amenity.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_amenity.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_base_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_base_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_city.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_city.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_engine/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_engine/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_engine/test_db_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_engine/test_db_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_engine/test_file_storage.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_engine/test_file_storage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_place.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_place.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_review.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_review.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_state.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_state.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test_models/test_user.py" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test_models/test_user.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1714585464818</updated>
-      <workItem from="1714585466613" duration="2452000" />
+      <workItem from="1714585466613" duration="2762000" />
     </task>
     <servers />
   </component>
