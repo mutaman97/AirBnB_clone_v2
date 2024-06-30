@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="67bc98d0-9c4b-4b88-adf3-9b596c4c3e69" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/100-clean_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/100-clean_web_static.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2-do_deploy_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/2-do_deploy_web_static.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3-deploy_web_static.py" beforeDir="false" afterPath="$PROJECT_DIR$/3-deploy_web_static.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web_flask/0-hello_route.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_flask/0-hello_route.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,17 +26,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/mutaman/ALX/AirBnB_clone_v2",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mutaman/ALX/AirBnB_clone_v2&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\mutaman\ALX\AirBnB_clone_v2" />
@@ -53,7 +51,8 @@
       <option name="presentableId" value="Default" />
       <updated>1714585464818</updated>
       <workItem from="1714585466613" duration="3575000" />
-      <workItem from="1715896308454" duration="1455000" />
+      <workItem from="1715896308454" duration="2526000" />
+      <workItem from="1719716346851" duration="204000" />
     </task>
     <servers />
   </component>
